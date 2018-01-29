@@ -1,0 +1,4 @@
+1)Operations
+2)Print string
+3)If-else condition
+4)Random function
