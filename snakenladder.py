@@ -42,11 +42,10 @@ while(count<100):
            count=64
            print("Snake bite")
      elif count==100:
-           count=100
            print("YOU WON")
            break
-while(count>100):
-    print("try again")
-    break
-
-     
+     elif count>100:
+           count=count-i
+           print("try again")
+     else:
+          break
