@@ -44,8 +44,6 @@ while(count<100):
      elif count==100:
            print("YOU WON")
            break
-     elif count>100:
-           count=count-i
-           print("try again")
-     else:
+     while(count>100):
+          print("Try again")
           break
