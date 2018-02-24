@@ -1,0 +1,2 @@
+1)Printing string using for loop.
+2)Sending message on twitter using python
